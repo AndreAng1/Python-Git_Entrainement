@@ -7,3 +7,5 @@ vega==2.6.0
 vega_datasets==0.7.0
 watermark==2.0.1
 matplotlib==3.4.3
+folium==0.12.1
+voila==0.2.6
